@@ -1,0 +1,25 @@
+[
+  {
+    "nombre" : "silla",
+    "stock"  : "10",
+    "precio" : "1000",
+    "categoria" : "madera",
+    "id" : "1"
+
+  },
+  {
+    "nombre" : "ventana",
+    "stock"  : "15",
+    "precio" : "8000",
+    "categoria" : "metal",
+    "id" : "2"
+  },
+  {
+    "nombre" : "mesa",
+    "stock"  : "12",
+    "precio" : "5000",
+    "categoria" : "hierro",
+    "id" : "3"
+  }
+
+]

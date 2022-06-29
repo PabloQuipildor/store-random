@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       <NavBar />
-      <ItemListContainer titulo = "hola mundo"/>
+      <ItemListContainer/>
     </div>
   );
 }
